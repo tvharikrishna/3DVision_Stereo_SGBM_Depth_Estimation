@@ -1,2 +1,3 @@
-# OpenCV_Stereo_SGBM_Depth_Estimation
-StereoSGBM Algorithm is an algorithm used for depth estimation that computes disparities between corresponding points in stereo image pairs to reconstruct a 3D scene that works better than StereoBM Algorithm
+# Stereo Depth Estimation using Semi-Global Block Matching (SGBM) Algorithm
+
+The StereoSGBM algorithm, an advanced form of block matching, calculates disparities in stereo images more accurately and robustly than StereoBM, enabling the reconstruction of detailed 3D scenes from stereo pairs.
