@@ -6,7 +6,6 @@ The process includes reading stereo image pairs, preprocessing them, computing d
 
 Author: Venkata Harikrishna, Talapala
 GitHub: https://github.com/tvharikrishna
-License: Apache 2.0
 
 Usage:
 Run this script as the main module to perform depth estimation. 
