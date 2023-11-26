@@ -1,4 +1,8 @@
-# Stereo Depth Estimation using Semi-Global Block Matching (SGBM) Algorithm
+<div align="center">
+  <h1>Stereo Depth Estimation using Semi-Global Block Matching (SGBM) Algorithm</h1>
+</div>
+
+<br>
 
 <p align="center">
   <img src="project title.png" alt="StereoSGBM Example" width="1500"/>
@@ -9,7 +13,7 @@ The StereoSGBM algorithm, an advanced form of block matching, calculates dispari
 
 ---------------------------------------------
 
-## What is Stereo SGBM?
+##  ★ What is Stereo SGBM?
 Stereo Semi-Global Block Matching (StereoSGBM) is an advanced algorithm for estimating the depth of a scene from a pair of stereo images. It calculates disparities between corresponding points to reconstruct the scene in 3D.
 
 <p align="center">
@@ -18,12 +22,12 @@ Stereo Semi-Global Block Matching (StereoSGBM) is an advanced algorithm for esti
 
 ---------------------------------------------
 
-## How it is better than Stereo BM?
+##  ★ How it is better than Stereo BM?
 StereoSGBM provides more accurate and detailed depth estimation compared to Stereo Block Matching (StereoBM), especially in textured and complex scenes. It implements a more sophisticated block matching technique that takes into account global image features and smoothness constraints.
 
 ---------------------------------------------
 
-## Input Image (data)
+##  ★ Input Image (data)
 
 <table>
   <tr>
@@ -41,7 +45,7 @@ StereoSGBM provides more accurate and detailed depth estimation compared to Ster
 
 ---------------------------------------------
 
-## Output Image (generated_images)
+##  ★ Output Image (generated_images)
 
 <table>
   <tr>
@@ -66,7 +70,7 @@ StereoSGBM provides more accurate and detailed depth estimation compared to Ster
 
 ---------------------------------------------
 
-## How to use my code?
+##  ★ How to use my code?
 The provided Python script utilizes the StereoSGBM algorithm to perform depth estimation. To use this code:
 
 1. Ensure you have OpenCV and NumPy installed in your Python environment.
