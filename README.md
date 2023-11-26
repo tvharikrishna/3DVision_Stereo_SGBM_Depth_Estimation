@@ -78,3 +78,15 @@ The provided Python script utilizes the StereoSGBM algorithm to perform depth es
 3. Open `OpenCV_Stereo_SGBM_Depth_Estimation.py`
 4. Set the `Left_Image_Path` and `Right_Image_Path` variables to point to your stereo image pair.
 5. Run the script to `Save` or `Display` the generated maps.
+
+---------------------------------------------
+
+##  ★ My Project Video Demonstration:
+
+<p align="center">
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7127317220291952640?utm_source=share&utm_medium=member_desktop">
+    <img src="https://img.shields.io/badge/Video - Watch StereoBM Depth Estimation in Action -blue" alt="Video"/>
+  </a>
+</p>
+
+---------------------------------------------
